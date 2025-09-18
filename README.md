@@ -22,7 +22,7 @@
 
 ### ✨ Tentang Saya
 - 🔭 Fokus: tugas kampus, mini projek, dan explore tooling
-- 🌱 Belajar: Python, Git, dan dasar CS
+- 🌱 Belajar: Python, CSS, HTML, dan Javascript
 - 🎯 Prinsip: sederhana dulu yang jalan → baru dirapikan
 
 ---
