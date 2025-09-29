@@ -49,7 +49,7 @@
 <div align="left">
   <a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scennmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&include_all_commits=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scenmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&&include_all_commits=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scennmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&&include_all_commits=true&layout=compact"/>
   </a>
 </div>
 
