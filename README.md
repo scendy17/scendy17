@@ -21,9 +21,9 @@
 ---
 
 ### ✨ Tentang Saya
-- 🔭 Fokus: tugas kampus, mini projek, dan explore tooling
+- 🔭 Fokus: tugas kampus doang banhh
 - 🌱 Belajar: Python, CSS, HTML, dan Javascript
-- 🎯 Prinsip: sederhana dulu yang jalan → baru dirapikan
+- 🎯 Prinsip: we wok de tok
 
 ---
 
