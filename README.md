@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Kenn <img src="https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf" width="0" height="0"> 👋</h1>
+<h1 align="center">Hi, I'm Kenn <img src="https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf" width="0" height="0"></h1>
 <p align="center">Belajar pemrograman, bikin hal sederhana yang bermanfaat.</p>
 
 <p align="center">
@@ -20,14 +20,12 @@
 
 ---
 
-### ✨ Tentang Saya
-- 🔭 Fokus: tugas kampus doang banhh
-- 🌱 Belajar: Python, CSS, HTML, dan Javascript
-- 🎯 Prinsip: we wok de tok
+### Tentang Saya
+ mancengg fish it
 
 ---
 
-### **🟦 Bahasa Pemrograman**
+### **Bahasa Pemrograman**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </div>
 
-### **⚙️ Alat Perang**
+### **Alat**
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -45,7 +43,7 @@
 
 ---
 
-### 📈 Stats
+### Stats
 <div align="left">
   <a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scennmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&include_all_commits=true&layout=compact"/>
@@ -55,13 +53,13 @@
 
 ---
 
-### 📬 Kontak
+### Kontak
 - E-mail: <a href="mailto:scendy17@gmail.com">scendy17</a>
 <!-- - (Opsional) Tambahkan email/LinkedIn/Discord di sini -->
 
 ---
 
-<p align="center">Terima kasih sudah mampir! Kalau bermanfaat, jangan lupa ⭐</p>
+<p align="center">Terima kasih sudah mampir! Kalau bermanfaat, jangan lupa ⭐ wokk</p>
 
 <!--
 **scendy17/scendy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
